@@ -1,7 +1,12 @@
-# @uniswap/sdk-core - Now at `Uniswap/sdks`
+# swifydex-sdk-core 
 
-All versions after 4.2.0 of this SDK can be found in the [SDK monorepo](https://github.com/Uniswap/sdks/tree/main/sdks/sdk-core)! Please file all future issues, PR’s, and discussions there.
+## Overview
 
-### Old Issues and PR’s
+`swifydex-sdk-core` is a library designed to provide essential utilities and data structures for building DeFi applications similar to Uniswap. This SDK core package includes classes and functions for handling tokens, prices, and other foundational components of a decentralized exchange.
 
-If you have an issue or open PR that is still active on this SDK in this repository, please recreate it in the new repository. Some existing issues and PR’s may be automatically migrated by the Uniswap Labs team.
+## Installation
+
+To install the package, use npm or yarn:
+
+```bash
+npm install swifydex-sdk-core
