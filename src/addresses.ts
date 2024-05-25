@@ -169,11 +169,11 @@ const MAINNET_ADDRESSES: ChainAddresses = {
 const SEPOLIA_ADDRESSES: ChainAddresses = {
   v3CoreFactoryAddress: '0x31C1E08163967845d4acECb0C106B2Fd35cc0DCc',
   multicallAddress: '0x73545BE5dB54e4ca876797cE87034E61df44d0dF',
-  quoterAddress: '0xAd5F60a46dB48dC598A368DE335c3770597BDA4D',
-  v3MigratorAddress: '0xEb4083B0da5c10b20A0C49795C46891833daf980',
-  nonfungiblePositionManagerAddress: '0xa85fDDEf177785d925F980679a12938d62cc5a8D',
+  quoterAddress: '0x62F4ed39a89c0c048fA8853FE92acc1Cf0477591',
+  v3MigratorAddress: '0xC75762360f10977ee17a9A5447259C117C0275Ab',
+  nonfungiblePositionManagerAddress: '0x8777708CE743c943e16b3C7173A2f512e5fe7502',
   tickLensAddress: '0xC19700eA02Dc9FedfF6691c9eFB189196b962a6e',
-  swapRouter02Address: '0xB0CBFC88f8c4025bBe1b815aFd7B3411096c0A0B'
+  swapRouter02Address: '0x51F20b2F5837fa1038E16A3b1A915E89117aE701'
 }
 
 // // Avalanche v3 addresses
